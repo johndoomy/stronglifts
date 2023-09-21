@@ -13,6 +13,7 @@ This project was designed as a proof of concept to keep track of my workout rout
 ## Tech
 
 - Javascript(React)
+- AWS(Lambda & API Gateway)
 - TailwindCSS
 - Framer Motion for animations
 
